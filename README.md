@@ -15,4 +15,4 @@ a HCI with the computer. With the use of the AI virtual
 mouse system, we can track the fingertip of the hand
 gesture by using a built-in camera or web camera and
 perform the mouse cursor operations and scrolling
-function and also move the cursor with it
+function and also move the cursor with it.
