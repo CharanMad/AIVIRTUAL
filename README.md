@@ -5,7 +5,7 @@ these devices are becoming compact in the form of
 Bluetooth or wireless technologies. This paper proposes an
 AI virtual mouse system that makes use of the hand
 gestures and hand tip detection for performing mouse
-functions in the computer using computer vision. $e
+functions in the computer using computer vision. The
 main objective of the proposed system is to perform
 computer mouse cursor functions and scroll function
 using a web camera or a built-in camera in the computer
