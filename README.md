@@ -1,8 +1,8 @@
-# AI_Mouse-Keyboard
+# AI_Mouse-Keyboard and Virtual Keyboard
 
-With the development technologies in the areas of augmented reality and devices that we use in our daily life,
+With the development technologies in the areas of augumented reality and devices that we use in our daily life,
 these devices are becoming compact in the form of
-Bluetooth or wireless technologies. $is paper proposes an
+Bluetooth or wireless technologies. This paper proposes an
 AI virtual mouse system that makes use of the hand
 gestures and hand tip detection for performing mouse
 functions in the computer using computer vision. $e
@@ -11,7 +11,7 @@ computer mouse cursor functions and scroll function
 using a web camera or a built-in camera in the computer
 instead of using a traditional mouse device. Hand gesture
 and hand tip detection by using computer vision is used as
-a HCI [1] with the computer. With the use of the AI virtual
+a HCI with the computer. With the use of the AI virtual
 mouse system, we can track the fingertip of the hand
 gesture by using a built-in camera or web camera and
 perform the mouse cursor operations and scrolling
