@@ -16,5 +16,4 @@ mouse system, we can track the fingertip of the hand
 gesture by using a built-in camera or web camera and
 perform the mouse cursor operations and scrolling
 function and also move the cursor with it.
-
-<img>https://i.ytimg.com/vi/FsXRElKicKc/maxresdefault.jpg</img>
+![maxresdefault](https://github.com/Sai-Charan1101/AI-VIRTUAL-MOUSE-AND-VIRTUAL-KEYBOARD/assets/97954142/1e0c5ed3-f35c-4c35-a1f8-23e1355b545e)
